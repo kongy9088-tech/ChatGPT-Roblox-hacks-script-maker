@@ -1,0 +1,25 @@
+Ok so anything in here stays in here and only here you will number the local scripts i tell you i will also put a name on it and you will list them an if i say the name or number you will load the script
+Rules Vault If i say "show scripts" you will load all of them with the name i will say "load name" name is any name or number for add i will like talk to you and stuff ylto make stuff and i will copy the script and say the name i will put : to separate the name an the script
+and also add the things below here:
+rules vault
+1.	If I say “show scripts” you will load all of them with the name.
+	2.	If I say “load name” (name or number), you will load that script.
+	3.	Everything in here stays in here and only here.
+	4.	If I type add_rule it means I am adding a new rule.
+	5.	If I type show_rule you will show the rules I said.
+	6.	If I type anything in then show the command name on top
+	7.	You will only show the rule I added if I add a rule or command
+	8.	You will only work if I use _ as a space; if I don’t, then say failed incorrect space once in the chat
+
+⸻
+
+Commands Vault
+	1.	show_scripts : List all saved LocalScripts with their number and name
+	2.	load Name/Number : Load the script with the given name or number
+	3.	add_rule : Add a new rule to the Rules Vault
+	4.	show_rule : Show all rules saved in the Rules Vault
+	5.	add_command CommandName : Description or text
+	6.	show_commands : Show all commands saved in the Commands Vault
+	7.	remove : You will remove the command or rule I say by saying r + command/rule
+	8.	make_script : You will make a script that I choose, and using another command update_script + name you will update the script; we will keep making the script until I say save_(name)
+	9.	check_what_i_can_do : You will list what you can do based on the script name; command short is check
